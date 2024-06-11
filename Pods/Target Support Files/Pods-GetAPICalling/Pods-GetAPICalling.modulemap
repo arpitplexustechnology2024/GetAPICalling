@@ -1,0 +1,6 @@
+framework module Pods_GetAPICalling {
+  umbrella header "Pods-GetAPICalling-umbrella.h"
+
+  export *
+  module * { export * }
+}

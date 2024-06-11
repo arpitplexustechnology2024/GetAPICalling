@@ -1,0 +1,6 @@
+framework module Pods_GetAPICalling_GetAPICallingUITests {
+  umbrella header "Pods-GetAPICalling-GetAPICallingUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
